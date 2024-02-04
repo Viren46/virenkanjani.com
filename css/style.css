@@ -8815,6 +8815,10 @@ h1, h2, h3, h4, h5,
     letter-spacing: 3px;
     text-transform: uppercase; }
 
+.text_highlight {
+   color: #ffbd39;
+}
+
 .services-1 {
   margin-bottom: 40px;
   padding: 2em;
